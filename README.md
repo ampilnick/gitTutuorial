@@ -1,5 +1,5 @@
 # gitTutuorial
-## Lets make 2nd string
+## Lets make 2nd strin
 
-## My feature is created
-## Release note
+## My feature is create
+## Release not
