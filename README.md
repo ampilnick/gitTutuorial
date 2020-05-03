@@ -2,3 +2,4 @@
 ## Lets make 2nd string
 
 ## My feature is created
+## Release note
